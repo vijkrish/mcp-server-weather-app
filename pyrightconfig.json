@@ -1,0 +1,12 @@
+{
+  "include": [
+    "weather"
+  ],
+  "extraPaths": [
+    "weather/.venv/lib/python3.10/site-packages"
+  ],
+  "typeCheckingMode": "basic",
+  "useLibraryCodeForTypes": true,
+  "venvPath": "weather",
+  "venv": ".venv"
+}

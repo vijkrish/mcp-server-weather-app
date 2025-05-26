@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "${workspaceFolder}/weather/.venv/bin/python",
+    "python.interpreter.path": "${workspaceFolder}/weather/.venv/bin/python",
+    "python.linting.enabled": true,
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}/weather/.venv/lib/python3.10/site-packages"
+    ],
+    "python.envFile": "${workspaceFolder}/weather/.env",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/weather/.venv/lib/python3.10/site-packages"
+    ],
+    "python.languageServer": "Pylance"
+}
